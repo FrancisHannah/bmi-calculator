@@ -1,0 +1,17 @@
+body {
+    background-color: gray;
+    color: white;
+}
+
+#leftside {
+    border: 0.1cm solid black;
+    margin: auto;
+}
+
+.bmicalc {
+    text-align: center;
+    margin-top: 150px;
+}
+
+
+
